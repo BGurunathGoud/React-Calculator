@@ -1,3 +1,31 @@
+# React-Calculator
+1. It is used to calculate the arithmetic operators and display the results on the screen.
+2. I have used React to develop the frontend of the application.
+
+## Installation of code in VS Code.
+1. User should download all the project files related to this application.
+2. Install all the dependencies in VS code.
+3. Go to terminal if all packages are installed successfully.
+4. Set the correct directory path of the application.
+5. Run npm install, because it will download the node modules dependencies.
+6. Run npm start, then the project starts to run on localhost port 3000.
+
+## Functioning of the application
+1. User need to open the link of the project on web browser.
+2. Then a calculator application is displayed.
+3. Here user can calculate all types of arthmatic operations using calculator.
+4. In order to run the application properly.
+        + Firstly user need to click on number button which need to calculate.
+        + And then used need to click on operator which he need to operate on.
+        + Finally user need to click on the number to operate on and click on Equal button.
+        + Then the results are didplayed on Screen.
+5. In this application user can even clear the results by clicking on "C" button.
+
+## Deployed Link
+https://662e16fb7232b29fc6093084--clever-parfait-c65970.netlify.app/
+
+***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
