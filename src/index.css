@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background: purple;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.screen {
+  height: 50px;
+  margin-bottom: 60px;
+}
+
+.wrapper {
+  background: wheat;
+  width: 20vw;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 6px 2px black;
+}
+
+.buttonBox {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+
+.button {
+  background: #bbbec0;
+  height: 60px;
+  padding: 12px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: black;
+  border: none;
+  font-size: 35px;
+}
+
+.button:hover {
+  border: 2px solid red;
+}
+
+.equals {
+  background: #28d709;
+  grid-column: 3/5;
+}
+
+.opt {
+  background: rgb(226, 149, 5);
+}
