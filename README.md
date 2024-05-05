@@ -15,11 +15,11 @@
 2. Then a calculator application is displayed.
 3. Here user can calculate all types of arthmatic operations using calculator.
 4. In order to run the application properly.
-        + Firstly user need to click on number button which need to calculate.
-        + And then used need to click on operator which he need to operate on.
-        + Finally user need to click on the number to operate on and click on Equal button.
-        + Then the results are didplayed on Screen.
-5. In this application user can even clear the results by clicking on "C" button.
+   + Firstly user need to click on number button which need to calculate.
+   + And then used need to click on operator which he need to operate on.
+   + Finally user need to click on the number to operate on and click on Equal button.
+   + Then the results are didplayed on Screen.
+6. In this application user can even clear the results by clicking on "C" button.
 
 ## Deployed Link
 https://662e16fb7232b29fc6093084--clever-parfait-c65970.netlify.app/
